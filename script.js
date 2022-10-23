@@ -40,7 +40,7 @@ function switchTAB() {
 	i++;
 }
 
-// For LOGIN
+// For Login
 var x = document.getElementById("login");
 var y = document.getElementById("register");
 var z = document.getElementById("btn");
